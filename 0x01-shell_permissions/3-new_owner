@@ -1,2 +1,3 @@
 #!/bin/bash
-echo E 'betty'\n
+echo 'betty'
+

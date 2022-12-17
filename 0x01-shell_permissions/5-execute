@@ -1,1 +1,2 @@
-VimCrypt~03!¤}gÄ5Û;Ëî8¿H³Z1s¶3‚¢o‚mæIPÌÔ@½Ôæ.}~ÛXÓ}¸Ş0
+#!/bin/bash
+chmod 700 hello
